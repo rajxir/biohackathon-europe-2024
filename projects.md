@@ -21,10 +21,6 @@ hero_darken: true
     </thead>
     <tbody>
       <tr>
-        <td>1</td>
-        <td><a href="https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/1.md">Accelerate your bioinformatics workflows with CGG AI Cloud</a></td>
-      </tr>
-      <tr>
         <td>2</td>
         <td><a href="https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/2.md">A curated assessment of metadata descriptors of AI-ready datasets</a></td>
       </tr>
@@ -128,10 +124,10 @@ hero_darken: true
         <td>27</td>
         <td><a href="https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/27.md">Integrating Bioconductor packages with the ELIXIR Research Software Ecosystem using EDAM</a></td>
       </tr>
-      <tr>
+      <!--<tr>
         <td>28</td>
         <td><a href="https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/28.md">Semantic Interoperability of Biomedical Data</a></td>
-      </tr>
+      </tr>-->
       <tr>
         <td>29</td>
         <td><a href="https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/29.md">ELIXIR FAIR Lesson Plan Handbook: advancing researchers’ & data stewards’ FAIR skills</a></td>
